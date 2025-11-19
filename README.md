@@ -1,5 +1,4 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=386a8c&width=435&lines=Italo+Henrique;Python+Back-end+Developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=386a8c&width=435&lines=Italo+Henrique;Python+Back-end+Developer)](#)
 
 _"Transformando requisitos em código limpo e eficiente."_
 ### 👋 Sobre Mim
@@ -11,11 +10,13 @@ Meu foco atual é o desenvolvimento de aplicações web escaláveis usando **Pyt
 ---
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,django,git,lua,postgres,html,css&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,lua,postgres,html,css&theme=dark)](#)
+
 ---
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=city_lights&hide_border=true&langs_count=6)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true&v=2)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=city_lights&hide_border=true&langs_count=6&v=2)](#)
 
 ---
 ### 📬 Links e contatos
@@ -26,4 +27,4 @@ Meu foco atual é o desenvolvimento de aplicações web escaláveis usando **Pyt
 ---
 ### 🐍 Minhas Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/github-contribution-grid-snake-dark.svg)](#)
