@@ -11,11 +11,15 @@
 
 _"Transformando requisitos em código limpo e eficiente."_
 
----
-    Sou recém-graduado em Análise e Desenvolvimento de Sistemas e migrei da área de Suporte & Infraestrutura.
+```text
+Sou recém-graduado em Análise e Desenvolvimento de Sistemas
+e migrei da área de Suporte & Infraestrutura.
 
-    Meu foco atual é o desenvolvimento de aplicações web escaláveis usando Python e Django. Trago uma bagagem de troubleshooting e lógica analítica para construir soluções robustas.
----
+Meu foco atual é o desenvolvimento de aplicações web
+escaláveis usando Python e Django. Trago uma bagagem de
+troubleshooting e lógica analítica para construir
+soluções robustas.
+```
 
 
 
@@ -47,7 +51,7 @@ _"Transformando requisitos em código limpo e eficiente."_
 
 <h1>𝙈𝙞𝙣𝙝𝙖𝙨 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙞𝙘̧𝙤̃𝙚𝙨<br/><br/>
 
-[![Pac-Man Graph](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/pacman-contribution-graph.svg)](#)
+[![Snake animation](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/github-contribution-grid-snake-dark.svg?v=99)](#)
 </div>
 
 
