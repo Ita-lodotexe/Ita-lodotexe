@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=0:17242a,25:52647c,100:17242a&text=Italo%20Henrique&fontColor=ffffff&fontSize=60&reversal=false&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:17242a,25:52647c,100:17242a&text=Italo%20Henrique&fontColor=ffffff&fontSize=60&reversal=false&animation=twinkling" width="100%" />
 </a>
 
 </div>
