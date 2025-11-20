@@ -47,7 +47,7 @@ _"Transformando requisitos em código limpo e eficiente."_
 
 <h1>𝙈𝙞𝙣𝙝𝙖𝙨 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙞𝙘̧𝙤̃𝙚𝙨<br/><br/>
 
-[![Pac-Man Animation](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/pacman-graph.svg)](#)
+[![Pac-Man Graph](https://raw.githubusercontent.com/Ita-lodotexe/Ita-lodotexe/output/pacman-contribution-graph.svg)](#)
 </div>
 
 
