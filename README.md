@@ -38,7 +38,7 @@ soluções robustas.
 <h1>𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨<br/><br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true&v=2)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=city_lights&hide_border=true&langs_count=6&v=2)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=city_lights&hide_border=true&langs_count=6&include_all_commits=true&t=1)](#)
 
 
 
