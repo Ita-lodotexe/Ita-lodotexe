@@ -37,9 +37,9 @@ soluções robustas.
 
 <h1>𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨<br/><br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true&v=2&force_refresh=123)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=city_lights&hide_border=true&langs_count=6&include_all_commits=true&t=1)](#)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Ita-lodotexe)
 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ita-lodotexe)
 
 
 <h1>𝙇𝙞𝙣𝙠𝙨 𝙚 𝙘𝙤𝙣𝙩𝙖𝙩𝙤𝙨<br/><br/>
