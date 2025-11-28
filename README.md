@@ -11,14 +11,12 @@
 
 _"Transformando requisitos em código limpo e eficiente."_
 
-```text
-Me chamo Italo Henrique, tenho 21 anos e sou natural de Manaus, Amazonas. [span_0](start_span)[span_1](start_span)Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Fametro[span_0](end_span)[span_1](end_span).
 
-[span_2](start_span)Atuo na área de desenvolvimento web com foco principal no back-end, com conhecimentos sólidos em Python, Django, PostgreSQL, além de JavaScript e Bootstrap para o front-end[span_2](end_span).
+>Me chamo Italo Henrique, tenho 21 anos e sou natural de Manaus, Amazonas. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Fametro.
 
-[span_3](start_span)Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em Clean Code e arquitetura de software, para criar aplicações robustas, bem documentadas e contribuir com experiências digitais de impacto[span_3](end_span).
+>Atuo na área de desenvolvimento web com foco principal no back-end, com conhecimentos sólidos em Python, Django, PostgreSQL, além de JavaScript e Bootstrap para o front-end.
 
-```
+>Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em Clean Code e arquitetura de software, para criar aplicações robustas, bem documentadas e contribuir com experiências digitais de impacto.
 
 
 
