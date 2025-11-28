@@ -11,14 +11,14 @@
 
 _"Transformando requisitos em código limpo e eficiente."_
 
+</div>
 
->Me chamo Italo Henrique, tenho 21 anos e sou natural de Manaus, Amazonas. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Fametro.
-
->Atuo na área de desenvolvimento web com foco principal no back-end, com conhecimentos sólidos em Python, Django, PostgreSQL, além de JavaScript e Bootstrap para o front-end.
-
->Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em Clean Code e arquitetura de software, para criar aplicações robustas, bem documentadas e contribuir com experiências digitais de impacto.
+>Me chamo Italo Henrique, tenho 21 anos e sou natural de Manaus, Amazonas. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Fametro.Atuo na área de desenvolvimento web com foco principal no back-end, com conhecimentos sólidos em Python, Django, PostgreSQL, além de JavaScript e Bootstrap para o front-end.Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em Clean Code e arquitetura de software, para criar aplicações robustas, bem documentadas e contribuir com experiências digitais de impacto.
 
 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=386a8c)](https://linkedin.com/in/italo-henrique-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=386a8c)](mailto:italohenrique.contato@gmail.com)
 
 <h1> 𝙏𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠<br/><br/>
 
@@ -37,13 +37,6 @@ _"Transformando requisitos em código limpo e eficiente."_
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ita-lodotexe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Ita-lodotexe)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ita-lodotexe&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ita-lodotexe)
-
-<h1>𝙇𝙞𝙣𝙠𝙨 𝙚 𝙘𝙤𝙣𝙩𝙖𝙩𝙤𝙨<br/><br/>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=386a8c)](https://linkedin.com/in/italo-henrique-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=386a8c)](mailto:italohenrique.contato@gmail.com)
-
 
 <h1>𝙈𝙞𝙣𝙝𝙖𝙨 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙞𝙘̧𝙤̃𝙚𝙨<br/><br/>
 
