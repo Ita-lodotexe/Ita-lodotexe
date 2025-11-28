@@ -17,6 +17,7 @@ _"Transformando requisitos em código limpo e eficiente."_
 
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=386a8c)](https://linkedin.com/in/italo-henrique-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=386a8c)](mailto:italohenrique.contato@gmail.com)
 
